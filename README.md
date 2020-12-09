@@ -1,0 +1,1 @@
+# spfx-search-counter-log-webpart
